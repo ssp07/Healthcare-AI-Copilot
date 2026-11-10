@@ -1,0 +1,7 @@
+metric,min_normal,max_normal
+glucose,70,100
+cholesterol,125,200
+hdl,40,100
+ldl,0,100
+vitamin_d,30,100
+hemoglobin,12,17
